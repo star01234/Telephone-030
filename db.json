@@ -1,0 +1,164 @@
+{
+  "Telephone": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 15 Pro Max",
+      "price": "41,900",
+      "color": "black",
+      "image": "https://source.unsplash.com/random/200x200/?portrait"
+    },
+    {
+      "id": 2,
+      "brand": "Apple",
+      "model": "iPhone 15 Pro",
+      "price": "39,900",
+      "color": "silver",
+      "image": "https://source.unsplash.com/random/200x200/?technology"
+    },
+    {
+      "id": 3,
+      "brand": "Apple",
+      "model": "iPhone 15",
+      "price": "35,900",
+      "color": "blue",
+      "image": "https://source.unsplash.com/random/200x200/?gadget"
+    },
+    {
+      "id": 4,
+      "brand": "Apple",
+      "model": "iPhone 15 Mini",
+      "price": "33,900",
+      "color": "pink",
+      "image": "https://source.unsplash.com/random/200x200/?phone"
+    },
+    {
+      "id": 5,
+      "brand": "Apple",
+      "model": "iPhone 14 Pro Max",
+      "price": "38,500",
+      "color": "gold",
+      "image": "https://source.unsplash.com/random/200x200/?luxury"
+    },
+    {
+      "id": 6,
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "price": "36,500",
+      "color": "graphite",
+      "image": "https://source.unsplash.com/random/200x200/?style"
+    },
+    {
+      "id": 7,
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "price": "32,500",
+      "color": "green",
+      "image": "https://source.unsplash.com/random/200x200/?modern"
+    },
+    {
+      "id": 8,
+      "brand": "Apple",
+      "model": "iPhone 13 Pro Max",
+      "price": "37,200",
+      "color": "rose gold",
+      "image": "https://source.unsplash.com/random/200x200/?device"
+    },
+    {
+      "id": 9,
+      "brand": "Apple",
+      "model": "iPhone 13 Pro",
+      "price": "35,200",
+      "color": "midnight green",
+      "image": "https://source.unsplash.com/random/200x200/?gadgets"
+    },
+    {
+      "id": 10,
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "price": "31,200",
+      "color": "purple",
+      "image": "https://source.unsplash.com/random/200x200/?electronics"
+    },
+    {
+      "id": 11,
+      "brand": "Apple",
+      "model": "iPhone 12 Pro Max",
+      "price": "34,800",
+      "color": "space gray",
+      "image": "https://source.unsplash.com/random/200x200/?tech"
+    },
+    {
+      "id": 12,
+      "brand": "Apple",
+      "model": "iPhone 12 Pro",
+      "price": "32,800",
+      "color": "silver",
+      "image": "https://source.unsplash.com/random/200x200/?innovation"
+    },
+    {
+      "id": 13,
+      "brand": "Apple",
+      "model": "iPhone 12",
+      "price": "28,800",
+      "color": "red",
+      "image": "https://source.unsplash.com/random/200x200/?smartphone"
+    },
+    {
+      "id": 14,
+      "brand": "Apple",
+      "model": "iPhone 11 Pro Max",
+      "price": "31,500",
+      "color": "black",
+      "image": "https://source.unsplash.com/random/200x200/?mobile"
+    },
+    {
+      "id": 15,
+      "brand": "Apple",
+      "model": "iPhone 11 Pro",
+      "price": "29,500",
+      "color": "white",
+      "image": "https://source.unsplash.com/random/200x200/?communication"
+    },
+    {
+      "id": 16,
+      "brand": "Apple",
+      "model": "iPhone 11",
+      "price": "25,500",
+      "color": "yellow",
+      "image": "https://source.unsplash.com/random/200x200/?digital"
+    },
+    {
+      "id": 17,
+      "brand": "Apple",
+      "model": "iPhone X",
+      "price": "27,000",
+      "color": "rose gold",
+      "image": "https://source.unsplash.com/random/200x200/?modern"
+    },
+    {
+      "id": 18,
+      "brand": "Apple",
+      "model": "iPhone 8 Plus",
+      "price": "23,500",
+      "color": "space gray",
+      "image": "https://source.unsplash.com/random/200x200/?digital-device"
+    },
+    {
+      "id": 19,
+      "brand": "Apple",
+      "model": "iPhone SE (2nd Gen)",
+      "price": "20,000",
+      "color": "product red",
+      "image": "https://source.unsplash.com/random/200x200/?iphone"
+    },
+    {
+      "id": 20,
+      "brand": "Apple",
+      "model": "iPhone SE",
+      "price": "18,000",
+      "color": "gold",
+      "image": "https://source.unsplash.com/random/200x200/?smartphone"
+    }
+  ]
+}
